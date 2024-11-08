@@ -1,6 +1,14 @@
 {
+"positive":{
     "zipCode": "80636",
     "city": "München",
     "streetName": "Erika-Mann-Str.",
     "houseNumber": "62"
+    },
+"negative":{
+    "zipCode": "8036",
+    "city": "Munich",
+    "streetName": "E.",
+    "houseNumber": "62"
+    }
 }
